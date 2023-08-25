@@ -76,7 +76,6 @@ td{
 
 .kalvium{
     postion: absolute;
-    top: 90px;
     width: 100%;
     text-align: center;
     background-color: black;
@@ -111,5 +110,26 @@ footer{
 input[type="text"]{
     text-align: center;
     width: 200px;
+
+}
+
+tr:hover{
+    background-color:#EDEAE4;
+}
+
+.main-div{
+    padding: 30px;
+}
+
+.subtext1{
+    text-align: center;
+    padding: 30px;
+   
+    
+}
+
+#shopping{
+    padding-top: 20px;
+    font-size: 25px;
 
 }
